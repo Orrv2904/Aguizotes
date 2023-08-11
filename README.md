@@ -1,7 +1,7 @@
 
 # Acerca de
 
-Página de transiciones fluidas y suaves entre las páginas, funciona minimizando las peticiones HTTP del navegador y mejorar la experiencia web de su usuario.
+Transiciones fluidas y suaves entre las páginas, funciona minimizando las peticiones HTTP del navegador y mejorar la experiencia web de su usuario.
 
 
 
